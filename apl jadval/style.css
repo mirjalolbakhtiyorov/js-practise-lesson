@@ -1,0 +1,37 @@
+h1{
+    text-align: center;
+    background-color: cyan;
+
+}
+body{
+    background-color:rgb(123, 49, 81) ;
+}
+.mainSection{
+    display: inline-block;
+    align-content: center;
+}
+.Nane{
+    color:rgb(0, 0, 0);
+    font-size: 14px;
+    font-weight: 1cm;
+}
+
+table{
+    border-radius: 15px;
+    width: 100%;
+    border-collapse: collapse;
+}
+th{
+    border: solid rgb(253, 255, 249);
+    color:rgb(127, 127, 127);
+    padding: 5px;
+}
+td{
+border: solid ;
+display: table-cell;
+color:blanchedalmond ;
+}
+
+thead{
+    text-align: left;
+}
